@@ -150,6 +150,10 @@ After studying this code, you'll understand:
 4. The power of method overriding (polymorphism)
 5. How to implement controlled property access with getters/setters
 6. The importance of constructor chaining in inheritance
+7. Interface implementation
+8. Static methods and properties
+9. More polymorphic examples
+10. Composition patterns
 
 ---
 
