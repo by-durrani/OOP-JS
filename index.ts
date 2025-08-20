@@ -98,7 +98,7 @@ class Supra extends Car implements Vehicle {
 
 const car = new Supra();
 
-console.log(car.engineDetails);
+// console.log(car.engineDetails);
 
 // console.log(car.drive()); // with method overriding output => The car is not moving
 // console.log(car.drive()); // with method overriding output => The 2Jz is roaring
